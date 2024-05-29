@@ -26,3 +26,8 @@ footer {
     margin-top: 0px; /* Ajusta la distancia vertical de los botones */
     text-align: center; /* Centra los botones horizontalmente */
 }
+.btn-container {
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+    gap: 10px; /* Espacio entre los botones */
+}
